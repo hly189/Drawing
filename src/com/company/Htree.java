@@ -1,6 +1,9 @@
 package com.company;
 import edu.princeton.cs.introcs.StdDraw;
 
+// https://intellij-support.jetbrains.com/hc/en-us/community/posts/207703065-How-to-use-stdlib-jar-in-Intellij-Idea-
+// https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html
+
 public class Htree {
     // plot an H, centered on (x, y) of the given side length
     public static void drawH(double x, double y, double size) {
